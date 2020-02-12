@@ -1,0 +1,29 @@
+h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:darkred;
+    float: right;
+    margin:70px;
+ 
+ 
+    
+}
+
+body {
+    color:rosybrown;
+}
+
+
+.all h2 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: darkslategray;
+    font-size: xx-large;
+    border: 5px;
+    border-color: dodgerblue;
+}
+
+.all p {
+    font-family: monospace;
+    color: dimgrey;
+    font-size: large
+    ;
+}
